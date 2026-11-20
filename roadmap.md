@@ -1,0 +1,3 @@
+- [x] Phones join with a room code and become controllers; the game shows on the host screen
+- [x] Add scannable QR joining with the room code filled in
+- [x] Allow one phone plus a TV/laptop to play against a computer opponent
